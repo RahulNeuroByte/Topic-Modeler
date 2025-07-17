@@ -6,6 +6,6 @@ matplotlib
 seaborn
 gensim
 nltk
-pyLDAvis==3.3.1
 wordcloud
 faiss-cpu
+pyLDAvis==3.3.1
