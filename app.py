@@ -112,6 +112,12 @@ with st.sidebar:
         st.balloons()
         st.success(random.choice(messages))
 
+# ----- Python version -------
+import streamlit as st
+import sys
+
+st.sidebar.markdown(f"🐍 **Python version:** `{sys.version}`")
+
 
 
 # ---------- Input ----------
