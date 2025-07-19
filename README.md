@@ -153,7 +153,7 @@ File Type	Description
 
 ## 🙌 Author
 
-Hi, I’m [**Rahul Kumar Dubey**](https://www.linkedin.com/in/rahulkumardubey) 👋 — a pre-final year Computer Science undergrad and **Data Science Intern at Celebal Technologies**.  
+Hi, I’m [**Rahul Kumar Dubey**]👋 —  **Data Science Intern at Celebal Technologies**.  
 I’m deeply interested in **AI, Machine Learning, NLP**, and building scalable solutions to real-world problems.
 
 This project was developed as part of my continuous journey to deepen my technical skills, explore real-world applications, and contribute to impactful innovations.
