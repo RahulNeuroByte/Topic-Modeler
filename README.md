@@ -25,6 +25,7 @@ An interactive NLP-based system that performs document **topic modeling** (using
 
 ---
 
+```
 ## 📂 Project Structure Overview
 
 ├── .devcontainer/               # Development container configurations (optional for cloud IDEs)
@@ -56,7 +57,7 @@ An interactive NLP-based system that performs document **topic modeling** (using
 ├── .gitignore                  # Files/folders to ignore in git
 └── README.md                   # You are Here!
 
-
+```
 ---
 
 ## 🧪 How It Works
