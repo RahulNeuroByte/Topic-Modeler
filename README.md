@@ -153,12 +153,15 @@ File Type	Description
 
 ## 🙌 Author
 
-## 🙌 Author
+Hi, I’m [**Rahul Kumar Dubey**](https://www.linkedin.com/in/rahulkumardubey) 👋 — a pre-final year Computer Science undergrad and **Data Science Intern at Celebal Technologies**.  
+I’m deeply interested in **AI, Machine Learning, NLP**, and building scalable solutions to real-world problems.
 
-Made with ❤️ by **Rahul Kumar Dubey**
+This project was developed as part of my continuous journey to deepen my technical skills, explore real-world applications, and contribute to impactful innovations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulkumardubey)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/RahulNeuroByte)
+📌 *Actively seeking internships and collaborative opportunities in AI/Data Science.*  
+🚀 *Open to contributions — feel free to raise an issue or submit a pull request.*
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rahulkumardubey) | [GitHub](https://github.com/RahulNeuroByte) | [Twitter/X](https://x.com/rahuldubey0129?t=j4IEIfiTFQ7eUN6-WeXCzQ&s=09)
 
 
 
