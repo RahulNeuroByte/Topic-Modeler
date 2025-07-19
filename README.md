@@ -1,5 +1,5 @@
 
-# 🧠 NLP Topic Modeling & Clustering Web App (LDA + KMeans)
+##  NLP Topic Modeling & Clustering Web App (LDA + KMeans)
 
 An interactive NLP-based system that performs document **topic modeling** (using LDA) and **clustering** (using KMeans) with visual insights and real-time prediction using a **Streamlit web app**.
 
