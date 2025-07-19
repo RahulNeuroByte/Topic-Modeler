@@ -1,4 +1,5 @@
 # ✅ Core dependencies
+
 streamlit
 pandas
 scikit-learn
