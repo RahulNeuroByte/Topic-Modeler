@@ -85,16 +85,20 @@ An interactive NLP-based system that performs document **topic modeling** (using
 - 📊 Pie chart of topic keyword distribution  
 ![alt text](visualisation/pie_chart.png)
 
-- ☁️ Word cloud of top keywords 
+- ☁️ Word cloud of top keywords
+  
 ![alt text](visualisation/wordcloud.png)
 
-- 📈 Topic score graph for each input  
+- 📈 Topic score graph for each input
+  
 ![alt text](visualisation/distribution.png)
 
 - 🔍 pyLDAvis: Inter-topic distances (HTML)
+  
 ![alt text](visualisation/pyLDAvis.png)
 
 - 🌐 Website Visualisation
+ 
 ![alt text](visualisation/website.png)
 
 ---
