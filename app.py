@@ -115,7 +115,6 @@ with st.sidebar:
 # ----- Python version -------
 import streamlit as st
 import sys
-
 st.sidebar.markdown(f"🐍 **Python version:** `{sys.version}`")
 
 
