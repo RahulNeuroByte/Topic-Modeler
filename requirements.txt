@@ -1,6 +1,4 @@
-# ✅ Core dependencies
-
-# Core dependencies (pinned to stable versions with wheels)
+#  Core dependencies
 
 streamlit==1.35.0
 pandas==2.1.4
@@ -8,7 +6,6 @@ numpy==1.24.4
 scikit-learn==1.3.2
 matplotlib==3.7.4
 seaborn==0.12.2
-
 # NLP & Topic Modeling
 nltk==3.8.1
 gensim==4.3.2
