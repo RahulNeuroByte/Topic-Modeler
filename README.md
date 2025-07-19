@@ -153,9 +153,13 @@ File Type	Description
 
 ## 🙌 Author
 
+## 🙌 Author
+
 Made with ❤️ by **Rahul Kumar Dubey**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-dubey-4a4971256) | ✨ [GitHub](https://github.com/RahulNeuroByte)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulkumardubey)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/RahulNeuroByte)
+
 
 
 ---
